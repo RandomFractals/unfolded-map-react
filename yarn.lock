@@ -1944,6 +1944,11 @@
     "@typescript-eslint/types" "4.14.2"
     eslint-visitor-keys "^2.0.0"
 
+"@unfolded/map-sdk@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@unfolded/map-sdk/-/map-sdk-0.1.2.tgz#4b856bdd117801c3d1b349328aa8d6f78cc3fbb6"
+  integrity sha512-dNYb8jJB3kzHrZYvN3lHtP1o3YqhEqOpkkzhc1StpxagB9FoU+G+ROjx/cf4KZgy+c/vFk6jCsKuTX+acxz7ug==
+
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.9.0.tgz#bd850604b4042459a5a41cd7d338cbed695ed964"
