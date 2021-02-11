@@ -1,6 +1,9 @@
 # unfolded-map-react
 
-Simple example app of using [unfolded map sdk with react](https://docs.unfolded.ai/map-sdk/examples/use-with-react)
+Simple example of using [unfolded map sdk with react](https://docs.unfolded.ai/map-sdk/examples/use-with-react)
+
+![Unfolded Map 🗺️ React App](https://github.com/RandomFractals/unfolded-map-react/blob/main/docs/images/unfolded-map-react.png?raw=true 
+ "Unfolded Map 🗺 React App")
 
 # Getting Started with Create React App
 
